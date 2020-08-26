@@ -1,12 +1,11 @@
-
-// Java program to illustrate reading data from file 
-// using nio.File 
 import java.util.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.io.*;
 import java.util.regex.*;
 
+// Clase utilizada para almacenar y calcular de manera mas sencilla los lineamientos puestos para el analizis
+// Siendo estos: (clases, metodos, comentarios, variables, etc)
 class Lineamientos {
   Map<Integer, HashMap<String, Integer>> lines = new HashMap<Integer, HashMap<String, Integer>>();
   Integer total = 0;
