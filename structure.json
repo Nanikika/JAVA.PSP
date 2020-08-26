@@ -1,0 +1,37 @@
+{
+  "classes": {
+    "line": {
+      "number": 1,
+      "quantity": 2
+    },
+    "total": 34
+  },
+  "methods": {
+    "line": {
+      "number": 1,
+      "quantity": 2
+    },
+    "total": 34
+  },
+  "attributes": {
+    "line": {
+      "number": 1,
+      "quantity": 2
+    },
+    "total": 34
+  },
+  "totalDeadLines": {
+    "line": {
+      "number": 1
+    },
+    "total": 34
+  },
+  "totalCommentLines": {
+    "line": {
+      "number": 1
+    },
+    "total": 34
+  },
+  "totalLines": 50,
+  "totalExecutableLines": 10
+}
